@@ -1,0 +1,4 @@
+# 3개 실습 모듈 공통 의존성
+chromadb>=0.5.0      # 벡터 저장소 + 검색 (01_rag, 03_rag_llm_wiki)
+openai>=1.30.0       # 임베딩 + 생성 (전 모듈)
+streamlit>=1.30.0    # 완성형 데모 앱 (01_rag/app.py)
