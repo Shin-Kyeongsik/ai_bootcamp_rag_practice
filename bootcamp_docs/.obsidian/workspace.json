@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "db68061ebc2bb9d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88094cdfe705f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4975e50b731eb56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_일차별_실습_안내.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05_일차별_실습_안내"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4992f2c9be254261",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb9d4d15b0f9937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2fb5a860b5d11e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3e7aaa599cc2193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a7f2d5f87b69b06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05857a29cc14df00",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4320b36d02692f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e0e5552a96bf2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_일차별_실습_안내.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05_일차별_실습_안내"
+            }
+          },
+          {
+            "id": "4f30ddb8e9a55f36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_일차별_실습_안내.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05_일차별_실습_안내"
+            }
+          },
+          {
+            "id": "52adede3e4e71427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59ffc61ca81e0846",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4febdb6a4eca0a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_일차별_실습_안내.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05_일차별_실습_안내"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a4975e50b731eb56",
+  "lastOpenFiles": [
+    "04_실습_환경_설치_가이드.md",
+    "09_참가자_FAQ.md",
+    "08_멘토링_및_QA_안내.md",
+    "07_수료_기준.md",
+    "06_과제_제출_규칙.md",
+    "05_일차별_실습_안내.md",
+    "03_장소_및_등록_안내.md",
+    "02_전체_일정표.md",
+    "01_부트캠프_개요.md"
+  ]
+}
