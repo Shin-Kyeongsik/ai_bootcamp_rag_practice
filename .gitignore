@@ -2,10 +2,3 @@
 __pycache__/
 *.py[cod]
 .DS_Store
-.venv/
-.env
-.env.*
-api_key.txt
-*/build/
-*/chroma_db/
-02_llm_wiki/wiki/
